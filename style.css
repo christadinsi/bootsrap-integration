@@ -14,7 +14,7 @@ ul, a{
 	background-color: black;
 }
 .form-inline{
-	margin-left: 630px;
+	margin-left: 640px;
 	top: 10px;
 }
 .1{
@@ -27,4 +27,9 @@ ul, a{
 }
 .input{
 	margin-top: 7px;
+}
+.navbar-brand {
+   
+    padding: 15px 15px;
+    
 }
