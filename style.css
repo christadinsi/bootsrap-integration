@@ -9,7 +9,12 @@ h1{
 
 ul, a{
 	background-color: black;
+
 }
+.home{
+	color: white;
+}
+
 .active a{
 	background-color: black;
 }
