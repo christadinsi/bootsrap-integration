@@ -9,32 +9,36 @@ h1{
 
 ul, a{
 	background-color: black;
-
+	margin-left: 57px;
 }
 .home{
 	color: white;
 }
 
+.touch{
+	color: rgb(199, 212, 14);
+}
+
 .active a{
 	background-color: black;
 }
-.form-inline{
-	margin-left: 640px;
-	top: 10px;
-}
-.1{
-	background-color: lightgray;
-}
+
 .fooot{
 	margin-top: 70px;
 	margin-left: 85px;
 	margin-bottom: 100px;
 }
 .input{
-	margin-top: 7px;
+	margin-top: 8px;
+	margin-left: 876px;	
 }
-.navbar-brand {
-   
-    padding: 15px 15px;
-    
+
+.bob{
+	margin-left: -100px;
+}
+
+
+
+.naver{
+	background-color: black;
 }
